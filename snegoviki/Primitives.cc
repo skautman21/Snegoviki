@@ -1,9 +1,4 @@
-/*
- * Primitives.cc
- *
- *  Created on: 30 но€б. 2020 г.
- *      Author: work
- */
+
 
 #include "Primitives.h"
 #include <cmath>
