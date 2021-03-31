@@ -1,9 +1,4 @@
-/*
- * Ground.cc
- *
- *  Created on: 16 дек. 2020 г.
- *      Author: Sergey
- */
+
 #include "Ground.h"
 
 static const std::vector<Ground::Vertex> s_ground_vertices {
