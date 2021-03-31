@@ -1,9 +1,3 @@
-/*
- * Ground.h
- *
- *  Created on: 16 дек. 2020 г.
- *      Author: Sergey
- */
 
 #ifndef GROUND_H_
 #define GROUND_H_
@@ -17,7 +11,7 @@ public:
 	using Vertex = std::vector<GLdouble>;
 	using Normal = std::vector<GLdouble>;
 	using Color = std::vector<GLfloat>;
-	// [0] - количество вершин, остальное - индексы
+	// [0] - ГЄГ®Г«ГЁГ·ГҐГ±ГІГўГ® ГўГҐГ°ГёГЁГ­, Г®Г±ГІГ Г«ГјГ­Г®ГҐ - ГЁГ­Г¤ГҐГЄГ±Г»
 	using Face = std::vector<int>;
 
 protected:
