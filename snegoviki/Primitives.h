@@ -1,9 +1,4 @@
-/*
- * Primitives.h
- *
- *  Created on: 17 дек. 2020 г.
- *      Author: Sergey
- */
+
 
 #ifndef PRIMITIVES_H_
 #define PRIMITIVES_H_
